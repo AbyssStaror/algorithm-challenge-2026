@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Algorithm Challenge 2026 解决方案说明
+# Algorithm Challenge 2026 
 
 本项目用于完成 `iftechio/algorithm-challenge-2026` 题目：预测用户在首次播放后一个月内是否会重复播放某个节目，并输出对应的概率。
 
@@ -13,7 +12,7 @@
 
 ## 一、 `split_dataset.py` 和 `feature_engineering.py` 的区别
 
-这两个文件职责不同：
+这两个文件任务不同：
 
 - `split_dataset.py`
   - 作用是把 `train.csv` 切分成训练集和验证集
@@ -159,5 +158,3 @@ id,label
 1,0.73
 2,1.00
 ```
-
->>>>>>> 52cf1be (feature：提交主要代码)
